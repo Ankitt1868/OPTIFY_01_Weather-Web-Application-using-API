@@ -17,7 +17,7 @@ Check out the live demo [here] (http://192.168.191.110:5500/index.html).
 # Technologies Used
 - Frontend: HTML, CSS, JAVASCRIPT
 - API: OpenWeatherMap
--  
+ 
 # Additional information
 - To get name of the location (city name or area name) by using longitude and latitude :- https://openweathermap.org/api/geocoding-api
 
