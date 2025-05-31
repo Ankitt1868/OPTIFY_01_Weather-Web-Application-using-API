@@ -12,7 +12,7 @@ A repository for a weather web application using an API, such as OpenWeatherMap,
 
 # Demo
 
-Check out the live demo [here] (http://192.168.191.110:5500/index.html).
+Check out the live demo [here] (https://192.168.191.110:5500/index.html).
 
 # Technologies Used
 - Frontend: HTML, CSS, JAVASCRIPT
