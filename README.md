@@ -6,9 +6,13 @@ Welcome to the Weather App repository! This project is a web application that pr
 A repository for a weather web application using an API, such as OpenWeatherMap, typically includes a description of the project, its purpose, the technologies used, and instructions on how to set it up and run the application. The description often details features like fetching real-time weather data, displaying forecasts, and potentially integrating with services like Google Maps for location searching. 
 
 # Features
-Live Weather Data: Get up-to-date weather information for your current location or search for any city worldwide.
-Explore Section: You Can See Many Random City Weather On Explore Section
-Add More Citys: You Can Add More Citys
+- Live Weather Data: Get up-to-date weather information for your current location or search for any city worldwide.
+- Explore Section: You Can See Many Random City Weather On Explore Section
+- Add More Citys: You Can Add More Citys
+
+# Demo
+
+Check out the live demo [here] (http://192.168.191.110:5500/index.html).
 
 # Technologies Used
 - Frontend: HTML, CSS, JAVASCRIPT
