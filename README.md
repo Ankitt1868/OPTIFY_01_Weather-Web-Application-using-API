@@ -12,7 +12,7 @@ A repository for a weather web application using an API, such as OpenWeatherMap,
 
 # Demo
 
-Check out the live demo [here] (http://192.168.191.110:5500/index.html).
+Check out the live demo [here] (scoderankit.github.io/OPTIFY_01_Weather-Web-Application-using-API/).
 
 # Technologies Used
 - Frontend: HTML, CSS, JAVASCRIPT
